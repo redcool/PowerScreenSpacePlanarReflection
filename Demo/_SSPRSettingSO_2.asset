@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c83283d49549a4880eaded50b8674f, type: 3}
+  m_Name: _SSPRSettingSO_2
+  m_EditorClassIdentifier: 
+  ssprCS: {fileID: 7200000, guid: 9af15d6ba8ed09349af776cd0962d42f, type: 3}
+  reflectionTextureName: _ReflectionTexture
+  planeLocation: {x: 0, y: 0.02, z: 0}
+  planeRotation: {x: 0, y: 0, z: 0, w: 1}
+  fadingRange: {x: 2.03, y: 6.15}
+  isApplyStretch: 0
+  stretchThreshold: 0.95
+  stretchIntensity: 1
+  runMode: 0
+  runModeAuto: 0
+  isFixedHoleInHashMode: 1
+  renderScale: 0.8
+  isApplyBlur: 1
+  blurPassMode: 0
+  blurRenderScale: 0.5
+  blurMat: {fileID: 2100000, guid: c4ed7fa856a0d474daad172c6b10d8ed, type: 2}
+  blurSize: 1
+  stepCount: 10
+  renderEvent: 400
+  renderEventOffset: 0
+  gameCameraTag: MainCamera
