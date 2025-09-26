@@ -1,5 +1,5 @@
 # Power_ScreenSpacePlanarReflection
-urp ScreenSpacePlanarReflections support lots graphics api
+urp ScreenSpacePlanarReflections support full graphics api
 
 <img width="1318" height="910" alt="image" src="https://github.com/user-attachments/assets/96b2934e-cce0-4930-8dc0-ec5d20eef803" />
 
