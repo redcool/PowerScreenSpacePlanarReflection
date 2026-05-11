@@ -1,10 +1,11 @@
-namespace PowerUtilities.SSPR
+﻿namespace PowerUtilities.SSPR
 {
+    using PowerUtilities.RenderFeatures;
     using UnityEngine;
     using UnityEngine.Rendering;
     using UnityEngine.Rendering.Universal;
 
-    public class SSPRPass : ScriptableRenderPass
+    public class SSPRPass : SRPPass
     {
         public SSPRSettingSO settings;
 
